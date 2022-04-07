@@ -1,0 +1,27 @@
+<svg id="w-icon-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284.148" height="284.087" viewBox="0 0 284.148 284.087">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.496" x2="0.995" y2="0.496" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bc2340"/>
+      <stop offset="1" stop-color="#581449"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="0.496" x2="1" y2="0.496" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="0" y1="0.502" x2="1" y2="0.502" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="0" y1="0.497" x2="1" y2="0.497" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="0" y1="0.501" x2="1" y2="0.501" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1" transform="translate(0)">
+    <g id="Online_Shopping-Shopping-Smartphone-Shopping_Bag-Commerce" data-name="Online Shopping-Shopping-Smartphone-Shopping Bag-Commerce">
+      <path id="Path_153" data-name="Path 153" d="M63.63,15.91h9.524v9.524H63.63Z" transform="translate(12.125 3.032)" fill="url(#linear-gradient)"/>
+      <path id="Path_154" data-name="Path 154" d="M79.54,15.91h37.883v9.524H79.54Z" transform="translate(15.156 3.032)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_155" data-name="Path 155" d="M184.653,203.582a23.692,23.692,0,0,1-23.668,23.668H74.492l16.275-28.18a14.013,14.013,0,0,0,13.394,18.715H123.1a14.2,14.2,0,1,0,0-28.406H104.161a14.179,14.179,0,0,0-11.513,5.953A18.882,18.882,0,0,0,58.9,178.581L42.788,206.428a28.287,28.287,0,0,1-.179-2.833V33.145a23.716,23.716,0,0,1,23.68-23.62h94.7a23.811,23.811,0,0,1,20.5,11.905l8.191-4.762A33.264,33.264,0,0,0,160.985,0h-94.7A33.18,33.18,0,0,0,33.145,33.145v91.374a14.287,14.287,0,0,0-6.858,6.822L4.762,177.974A51.384,51.384,0,0,0,0,199.808v84.278H9.524V199.808a42.074,42.074,0,0,1,3.929-17.858L33.2,139.091v64.492a33.014,33.014,0,0,0,4.2,16.144,4.762,4.762,0,0,0,8.441.429l21.3-36.907a9.524,9.524,0,0,1,16.406,9.524L62.242,229.679a4.762,4.762,0,0,0,0,4.762L72.385,251.3a23.7,23.7,0,0,1,3.381,12.2v20.537H85.29V263.5a33.335,33.335,0,0,0-4.762-17.084l-5.834-9.679h86.326a33.192,33.192,0,0,0,33.109-33.157V179.915h-9.524Zm-80.492-4.762H123.1a4.762,4.762,0,1,1,0,9.524H104.161a4.762,4.762,0,1,1,0-9.524Z" transform="translate(0)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_156" data-name="Path 156" d="M250.979,52.182a75.754,75.754,0,0,0-132.424,71.552l-16,27.132a4.726,4.726,0,0,0,4.953,7.048l30.954-5.774a75.445,75.445,0,0,0,37.312,18.132,79.337,79.337,0,0,0,13.215,1.191,75.754,75.754,0,0,0,61.991-119.28Zm3.226,54.967A66.289,66.289,0,0,1,143.176,143.6a4.834,4.834,0,0,0-3.274-1.274,5.108,5.108,0,0,0-.845,0L116,146.64,127.9,126.472a4.941,4.941,0,0,0,.286-4.31,66.289,66.289,0,1,1,126.019-15Z" transform="translate(19.417 3.773)" fill="url(#linear-gradient-4)"/>
+      <path id="Path_157" data-name="Path 157" d="M214.2,63.52H199.986V58.757a18.942,18.942,0,1,0-37.871,0V63.52h-14.2a4.762,4.762,0,0,0-4.762,4.762v56.813a14.287,14.287,0,0,0,14.2,14.215H204.7a14.286,14.286,0,0,0,14.2-14.215V68.258A4.762,4.762,0,0,0,214.2,63.52ZM171.58,58.757a9.524,9.524,0,1,1,18.942,0V63.52H171.544Zm37.883,66.277A4.762,4.762,0,0,1,204.7,129.8H157.377a4.762,4.762,0,0,1-4.762-4.762v-4.762h56.825Zm0-14.2H152.639V73h9.524v9.524h9.381V73h18.942v9.524h9.465V73h9.524Z" transform="translate(27.276 7.496)" fill="url(#linear-gradient-5)"/>
+      <path id="Path_158" data-name="Path 158" d="M87.763,52.87l-7.286,7.3a23.739,23.739,0,1,0,6.691,6.691l7.3-7.286ZM81.643,79.883A14.286,14.286,0,1,1,73.524,67.1L59.356,81.264l6.7,6.7L80.227,73.8A13.822,13.822,0,0,1,81.643,79.883Z" transform="translate(8.314 10.074)" fill="url(#linear-gradient-6)"/>
+      <path id="Path_159" data-name="Path 159" d="M91.47,63.63h18.942v9.524H91.47Z" transform="translate(17.429 12.124)" fill="url(#linear-gradient-7)"/>
+      <path id="Path_160" data-name="Path 160" d="M91.47,79.54h18.942V89H91.47Z" transform="translate(17.429 15.156)" fill="url(#linear-gradient-8)"/>
+    </g>
+  </g>
+</svg>
